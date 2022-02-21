@@ -38,9 +38,3 @@ function copy() {
     document.execCommand('copy');
     
 }
-
-var button = document.getElementByName("delete1");
-button.onclick = deleteText;
-
-
-
